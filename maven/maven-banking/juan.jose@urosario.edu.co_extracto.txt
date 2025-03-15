@@ -1,0 +1,15 @@
+Extracto bancario de juan.jose@urosario.edu.co
+-----------------------------
+Tipo: Deposit
+Balance: 50.0
+Fecha y hora: 2025-02-11 14:17:21.921536
+-----------------------------
+Tipo: Withdrawal
+Balance: -20.0
+Fecha y hora: 2025-02-15 10:30:15.123456
+-----------------------------
+Tipo: Deposit
+Balance: 200.0
+Fecha y hora: 2025-02-20 09:45:30.654321
+-----------------------------
+Fin del extracto
